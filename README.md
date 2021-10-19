@@ -1,7 +1,6 @@
 # TAURIN-21
 Artifacts from TAURIN 2021 paper
 
-
 code: all scripts needed to run the methodologies and extensions from Bush et al. as well as Hlavacek et al. Moreover, we added our Jupyter notebooks for the evaluation.
 
 data: middlebox artifacts described in the paper (trace to probes behind middleboxes)
